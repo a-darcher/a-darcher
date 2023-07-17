@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @a-darcher
 - 🧠 I study how single neurons in the human brain process semantic info from movies and other dynamic stimuli. 📽
-- 🔗 I also build software tools for making analysis of complex experiments easier. 💡
+- 🔗 I also build software tools that aid analysis of high-dimensional electrophysiological data. 💡
 
 
 <!---
